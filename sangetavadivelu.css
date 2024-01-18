@@ -1,6 +1,7 @@
-		::selection {
-			color: yellow;
-		}
+::selection {
+
+  background: orange;
+}
 
 
 .fr-clearfix::after {
